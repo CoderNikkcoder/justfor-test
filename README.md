@@ -46,7 +46,7 @@ Getting Started
 2. Navigate to the project directory: cd justfor-test
 3. Build the Docker image: docker-compose build
 4. Start the application: docker-compose up
-5. Access the API endpoints using a tool like curl or Postman
+5. Access the API endpoints using a tool like Postman
 
 ### Environment Variables
 

@@ -43,7 +43,7 @@ Getting Started
 ### Running the Application
 
 1. Clone the repository: git clone https://github.com/CoderNikkcoder/justfor-test
-2. Navigate to the project directory: cd flask-mongodb-api
+2. Navigate to the project directory: cd justfor-test
 3. Build the Docker image: docker-compose build
 4. Start the application: docker-compose up
 5. Access the API endpoints using a tool like curl or Postman
